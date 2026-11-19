@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:26:26.159Z",
+  "generated_at": "2026-11-19T22:34:55.671Z",
   "items": {
     "problem:1268": {
       "kind": "problem",
@@ -11,6 +11,19 @@
       "path": "problems/1268-tensor-puzzle-ones-vector-from-first-principles",
       "first_solved_at": "2026-11-19T22:26:21.005Z",
       "last_pushed_at": "2026-11-19T22:26:21.005Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:1269": {
+      "kind": "problem",
+      "id": "1269",
+      "title": "Tensor Puzzle: Sum a Vector with a Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1269",
+      "path": "problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product",
+      "first_solved_at": "2026-11-19T22:34:54.870Z",
+      "last_pushed_at": "2026-11-19T22:34:54.870Z",
       "language": "python",
       "lines": 6
     }
