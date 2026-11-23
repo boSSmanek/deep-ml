@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:18:27.157Z",
+  "generated_at": "2026-11-23T17:54:27.118Z",
   "items": {
     "problem:1268": {
       "kind": "problem",
@@ -96,6 +96,19 @@
       "path": "problems/1272-tensor-puzzle-identity-matrix-from-comparisons",
       "first_solved_at": "2026-11-21T15:18:26.572Z",
       "last_pushed_at": "2026-11-21T15:18:26.572Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1273": {
+      "kind": "problem",
+      "id": "1273",
+      "title": "Tensor Puzzle: Upper-Triangular Ones Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1273",
+      "path": "problems/1273-tensor-puzzle-upper-triangular-ones-matrix",
+      "first_solved_at": "2026-11-23T17:54:26.441Z",
+      "last_pushed_at": "2026-11-23T17:54:26.441Z",
       "language": "python",
       "lines": 8
     }
