@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:12:49.869Z",
+  "generated_at": "2026-11-23T19:56:04.521Z",
   "items": {
     "problem:1268": {
       "kind": "problem",
@@ -134,7 +134,7 @@
       "url": "https://www.deep-ml.com/problems/1274",
       "path": "problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul",
       "first_solved_at": "2026-11-23T19:12:48.988Z",
-      "last_pushed_at": "2026-11-23T19:12:48.988Z",
+      "last_pushed_at": "2026-11-23T19:56:03.418Z",
       "language": "python",
       "lines": 8
     }
